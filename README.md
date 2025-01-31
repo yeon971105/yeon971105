@@ -1,5 +1,6 @@
 
-## 👋 Hi, I'm Jewon! I'm an aspiring AI Researcher currently studying Data Science at San Jose State University, with a passion for solving complex problems using machine learning and deep learning techniques.
+## 👋 Hi, I'm Jewon! 
+I'm an aspiring AI Researcher currently studying Data Science at San Jose State University, with a passion for solving complex problems using machine learning and deep learning techniques.
 
 ---
 
