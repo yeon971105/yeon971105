@@ -27,22 +27,22 @@ GPA: 3.85
 
 ## 🌟 Projects
 
-### [AI-Powered Semiconductor Material Optimization](https://github.com/yeon971105/semiconductor-optimization)
+### [AI-Powered Semiconductor Material Optimization](https://github.com/yeon971105/AI-Powered-Semiconductor-Material-Optimization)
 Predicting molecular bandgaps using ML models to enhance semiconductor R&D. Utilized Gradient Boosting, Random Forest, and XGBoost with extensive hyperparameter tuning.
 
-### [Tweets Classification Using NLP](https://github.com/yeon971105/tweets-classification)
+### [Tweets Classification Using NLP](https://github.com/yeon971105/Tweets-Classification-Using-NLP)
 Automated real-time classification of tweets to assist emergency response. Implemented a robust NLP pipeline and achieved an F1-score of 0.88.
 
-### [Exoplanet Habitability Prediction](https://github.com/yeon971105/exoplanet-habitability)
+### [Exoplanet Habitability Prediction](https://github.com/yeon971105/Exoplanet-Habitability-Prediction)
 Developed a model to assess planetary habitability, achieving 98% accuracy by optimizing data processing techniques with Python's data science stack.
 
-### [AI Bowling](https://github.com/yeon971105/ai-bowling)
+### [AI Bowling](https://github.com/yeon971105/AI_Bowling)
 Utilizing AI to recommend the most suitable bowling balls based on player style and preferences, optimizing choice and enhancing player satisfaction.
 
-### [Tesla Stock Analysis](https://github.com/yeon971105/tesla-stock-analysis)
+### [Tesla Stock Analysis](https://github.com/yeon971105/Tesla_Stock)
 Analyzed Tesla's stock price movements using Python's data science tools to forecast future prices with statistical and machine learning techniques.
 
-### [Web Development Project](https://github.com/yeon971105/web-dev-ecommerce)
+### [Web Development Project](https://github.com/ggmaddr/Ecommerce-SQL)
 Developed a full-stack e-commerce website for a cafe with features like user authentication, shopping cart, order management, and an admin dashboard.
 
 ---
