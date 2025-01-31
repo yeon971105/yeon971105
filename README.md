@@ -1,20 +1,11 @@
 
-## 👋 Hi, I'm Jewon! 
-I'm an aspiring AI Researcher currently studying Data Science at San Jose State University, with a passion for solving complex problems using machine learning and deep learning techniques.
+## 🙋🏻‍♀️ Introducing Myself
 
----
+👋 Hello! I'm Jewon Yeon, an aspiring AI Researcher and a dedicated Data Science student at San Jose State University. I am currently pursuing a Bachelor of Science in Data Science, expecting to graduate in May 2025 with a GPA of 3.86. Previously, I completed an Associate of Science in Computer Science at De Anza College, where I cultivated a strong foundation in technical skills and theoretical knowledge.
 
-## 🎓 Education
+🚀 My passion for artificial intelligence is driven by a commitment to leverage technology in solving complex problems and making data-driven decisions. My academic and project experiences span across machine learning, deep learning, natural language processing, and statistical analysis. I am particularly interested in how AI can be applied to diverse fields such as the universe, semiconductors, and environmental science to drive innovation and efficiency.
 
-**Bachelor of Science in Data Science**  
-*San Jose State University, San Jose, CA*  
-Aug 2023 - May 2025  
-GPA: 3.86  
-
-**Associate of Science, Computer Science - Transfer**  
-*De Anza College, Cupertino, CA*  
-Dec 2020 - Mar 2023  
-GPA: 3.85  
+🌱 Beyond my academic pursuits, I am actively engaged in professional development, evidenced by my participation in advanced certifications and competitive programs. My goal is to continue evolving as a data scientist, contributing to impactful AI solutions, and paving the way for future technological advancements.
 
 ---
 
@@ -44,15 +35,6 @@ Analyzed Tesla's stock price movements using Python's data science tools to fore
 
 ### [Web Development Project](https://github.com/ggmaddr/Ecommerce-SQL)
 Developed a full-stack e-commerce website for a cafe with features like user authentication, shopping cart, order management, and an admin dashboard.
-
----
-
-## 📈 Experience
-
-**Data Center Technician**  
-*Conscious Capital Data Center, Sacramento, CA*  
-Aug 2020 - Dec 2020  
-Managed and resolved hardware/software issues, maintaining 99% server uptime in a high-performance computing environment.
 
 ---
 
