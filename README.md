@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/e77d3ec8-5bdd-4032-b649-751840d42eb2)
 
 ## 🙋🏻‍♀️ Introducing Myself
 
